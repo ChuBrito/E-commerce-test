@@ -1,0 +1,30 @@
+.basePage {
+  background-color: lemonchiffon;
+  height: 100vh;
+}
+
+.basePageHeader {
+  background-color: aquamarine;
+  position: fixed;
+  justify-content: center;
+  min-height: 35px;
+  height: 5vh;
+  width: 100vw;
+}
+
+.basePageBody {
+  flex: 1;
+  flex-direction: row;
+  margin-top: 5vh;
+}
+
+.basePageContainer {
+  flex: 1;
+  background-color: darkgoldenrod;
+}
+
+.basePageSideMenu {
+  background-color: darkseagreen;
+  height: 100%;
+  min-width: 20vw;
+}
