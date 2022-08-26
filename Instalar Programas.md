@@ -1,3 +1,9 @@
+Criar Conta no Git
+    https://github.com/ e depois me passar o usuario para adicionar o email no projeto
+Criar conta no Notion
+    https://www.notion.so/ e depois me passar o usuario para adicionar
+
+
 Instalar Programas
     instalar o Visual code
         https://code.visualstudio.com/
@@ -41,4 +47,15 @@ Instalar extenções do VSCode
 
 Comando do Terminal:
     Git: 
+        Clonar projeto:
+        git clone https://github.com/ChuBrito/E-commerce-test.git
+        trocar para branch de dev:
+        git checkout dev
+        baixar alterações e atualizações:
+        git pull
+    NPM:
+        ***dentro da pasta do projeto (e-commerce-front)
+        npm install
     
+Teste se o Projeto está rodando:
+    npm start

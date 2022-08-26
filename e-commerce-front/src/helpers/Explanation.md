@@ -1,0 +1,1 @@
+Pasta para colocar funções de auxilio que são reutilizadas, como funções de formatação de data ou de string

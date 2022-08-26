@@ -1,0 +1,1 @@
+Pasta onde ficarão os arquivos como imagens, fonts e icones

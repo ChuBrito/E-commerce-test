@@ -1,0 +1,1 @@
+Pasta onde ficarão os serviços que farão comunicação e com o backend
